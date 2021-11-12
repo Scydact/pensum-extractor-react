@@ -1,0 +1,10 @@
+{
+    "universities": [
+        {
+            "code": "unapec",
+            "shortName": "UNAPEC",
+            "longName": "Universidad APEC",
+            "imgUrl": null
+        }
+    ]
+}

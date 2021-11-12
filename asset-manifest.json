@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pensum-extractor-react/static/css/main.67f133f2.chunk.css",
+    "main.js": "/pensum-extractor-react/static/js/main.db02f53e.chunk.js",
+    "main.js.map": "/pensum-extractor-react/static/js/main.db02f53e.chunk.js.map",
+    "runtime-main.js": "/pensum-extractor-react/static/js/runtime-main.e8db7c8d.js",
+    "runtime-main.js.map": "/pensum-extractor-react/static/js/runtime-main.e8db7c8d.js.map",
+    "static/js/2.268ea96d.chunk.js": "/pensum-extractor-react/static/js/2.268ea96d.chunk.js",
+    "static/js/2.268ea96d.chunk.js.map": "/pensum-extractor-react/static/js/2.268ea96d.chunk.js.map",
+    "static/js/3.b4af41e6.chunk.js": "/pensum-extractor-react/static/js/3.b4af41e6.chunk.js",
+    "static/js/3.b4af41e6.chunk.js.map": "/pensum-extractor-react/static/js/3.b4af41e6.chunk.js.map",
+    "index.html": "/pensum-extractor-react/index.html",
+    "static/css/main.67f133f2.chunk.css.map": "/pensum-extractor-react/static/css/main.67f133f2.chunk.css.map",
+    "static/js/2.268ea96d.chunk.js.LICENSE.txt": "/pensum-extractor-react/static/js/2.268ea96d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8db7c8d.js",
+    "static/js/2.268ea96d.chunk.js",
+    "static/css/main.67f133f2.chunk.css",
+    "static/js/main.db02f53e.chunk.js"
+  ]
+}
