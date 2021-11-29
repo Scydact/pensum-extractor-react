@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pensum-extractor-react/static/css/main.32130be2.chunk.css",
-    "main.js": "/pensum-extractor-react/static/js/main.baa76c57.chunk.js",
-    "main.js.map": "/pensum-extractor-react/static/js/main.baa76c57.chunk.js.map",
+    "main.js": "/pensum-extractor-react/static/js/main.eff670c8.chunk.js",
+    "main.js.map": "/pensum-extractor-react/static/js/main.eff670c8.chunk.js.map",
     "runtime-main.js": "/pensum-extractor-react/static/js/runtime-main.42958533.js",
     "runtime-main.js.map": "/pensum-extractor-react/static/js/runtime-main.42958533.js.map",
     "static/js/2.793cc1c5.chunk.js": "/pensum-extractor-react/static/js/2.793cc1c5.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.42958533.js",
     "static/js/2.793cc1c5.chunk.js",
     "static/css/main.32130be2.chunk.css",
-    "static/js/main.baa76c57.chunk.js"
+    "static/js/main.eff670c8.chunk.js"
   ]
 }
