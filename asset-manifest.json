@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/pensum-extractor-react/static/css/main.7d7c2e36.css",
-    "main.js": "/pensum-extractor-react/static/js/main.5916fe62.js",
+    "main.js": "/pensum-extractor-react/static/js/main.f08fe02c.js",
     "static/js/40.672b4c87.chunk.js": "/pensum-extractor-react/static/js/40.672b4c87.chunk.js",
     "static/js/436.6051a302.chunk.js": "/pensum-extractor-react/static/js/436.6051a302.chunk.js",
     "static/js/832.548b2358.chunk.js": "/pensum-extractor-react/static/js/832.548b2358.chunk.js",
     "sw.js": "/pensum-extractor-react/sw.js",
     "index.html": "/pensum-extractor-react/index.html",
     "main.7d7c2e36.css.map": "/pensum-extractor-react/static/css/main.7d7c2e36.css.map",
-    "main.5916fe62.js.map": "/pensum-extractor-react/static/js/main.5916fe62.js.map",
+    "main.f08fe02c.js.map": "/pensum-extractor-react/static/js/main.f08fe02c.js.map",
     "40.672b4c87.chunk.js.map": "/pensum-extractor-react/static/js/40.672b4c87.chunk.js.map",
     "436.6051a302.chunk.js.map": "/pensum-extractor-react/static/js/436.6051a302.chunk.js.map",
     "832.548b2358.chunk.js.map": "/pensum-extractor-react/static/js/832.548b2358.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d7c2e36.css",
-    "static/js/main.5916fe62.js"
+    "static/js/main.f08fe02c.js"
   ]
 }
