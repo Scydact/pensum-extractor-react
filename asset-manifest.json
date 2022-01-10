@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pensum-extractor-react/static/css/main.469c3c0a.css",
-    "main.js": "/pensum-extractor-react/static/js/main.8638fc7f.js",
-    "static/js/40.f504dd7d.chunk.js": "/pensum-extractor-react/static/js/40.f504dd7d.chunk.js",
-    "static/js/436.26200f79.chunk.js": "/pensum-extractor-react/static/js/436.26200f79.chunk.js",
+    "main.css": "/pensum-extractor-react/static/css/main.baa3076b.css",
+    "main.js": "/pensum-extractor-react/static/js/main.51413f24.js",
+    "static/js/40.5d86a865.chunk.js": "/pensum-extractor-react/static/js/40.5d86a865.chunk.js",
+    "static/js/436.6decc9ce.chunk.js": "/pensum-extractor-react/static/js/436.6decc9ce.chunk.js",
     "static/js/832.a3796d7f.chunk.js": "/pensum-extractor-react/static/js/832.a3796d7f.chunk.js",
     "sw.js": "/pensum-extractor-react/sw.js",
     "index.html": "/pensum-extractor-react/index.html",
-    "main.469c3c0a.css.map": "/pensum-extractor-react/static/css/main.469c3c0a.css.map",
-    "main.8638fc7f.js.map": "/pensum-extractor-react/static/js/main.8638fc7f.js.map",
-    "40.f504dd7d.chunk.js.map": "/pensum-extractor-react/static/js/40.f504dd7d.chunk.js.map",
-    "436.26200f79.chunk.js.map": "/pensum-extractor-react/static/js/436.26200f79.chunk.js.map",
+    "main.baa3076b.css.map": "/pensum-extractor-react/static/css/main.baa3076b.css.map",
+    "main.51413f24.js.map": "/pensum-extractor-react/static/js/main.51413f24.js.map",
+    "40.5d86a865.chunk.js.map": "/pensum-extractor-react/static/js/40.5d86a865.chunk.js.map",
+    "436.6decc9ce.chunk.js.map": "/pensum-extractor-react/static/js/436.6decc9ce.chunk.js.map",
     "832.a3796d7f.chunk.js.map": "/pensum-extractor-react/static/js/832.a3796d7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.469c3c0a.css",
-    "static/js/main.8638fc7f.js"
+    "static/css/main.baa3076b.css",
+    "static/js/main.51413f24.js"
   ]
 }
