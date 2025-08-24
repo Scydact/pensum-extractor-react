@@ -1,1 +1,1 @@
-{"name":"pensum-extractor","short_name":"pensum-extractor","start_url":"/pensum-extractor-react/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/pensum-extractor-react/"}
+{"name":"Pensum DO","short_name":"Pensum","start_url":".","display":"standalone","background_color":"#21557F","lang":"en","scope":"/pensum-extractor-react/","description":"Seguidor de pensum para carreras de RD (coming soon).","theme_color":"#0070cc","icons":[{"src":"./favicon/favicon-256x256.png","sizes":"256x256","type":"image/png"}]}
